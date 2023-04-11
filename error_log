@@ -1,0 +1,1 @@
+[12-Dec-2020 09:08:17 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'scrirvom_co'@'localhost' (using password: YES) in /home/trusqerp/mediterraneanshippings.com/config/database.php on line 11
